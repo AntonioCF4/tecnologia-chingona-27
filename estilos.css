@@ -1,0 +1,110 @@
+.logo { border: 4px solid black;
+    padding: 5px;}
+
+#eltitulo { 
+    font-size: 35px; 
+    font-family: sans-serif;
+    font-weight: bold;
+    border: 1px solid black ;
+    text-align: left;
+    padding: 10px 0px;
+   }
+
+nav li {
+        list-style:none ;
+        padding: 4px ;
+        font-family: serif;
+        border:  2px solid black; 
+        display: inline-block;
+        text-align: left;
+        color: rgb(143, 100, 48);
+        font-size: 24px;
+       }
+
+.menu li {text-align: left; }
+
+.inicio { 
+background-color: #739c61;
+padding: 10px;
+font-size: 26px;
+} 
+
+#texto1 {float: right; 
+    display: block;
+ width: 700px;
+height: 160px; 
+font-size: 27px;
+padding: 4px;
+text-align: center;}
+
+#texto2 {float: left;
+display: block ;
+ width: 210px;
+height: 460px;
+font-size: 24px;
+text-align: left;}
+
+.catalogo {font-size: 40px;
+    list-style:none ;
+    float: inline-end;    
+}
+
+.tecnologias-arregladas { 
+    border: 4px solid black; 
+    margin: 3px; 
+}
+    
+
+.articulos{ 
+    background-color: #A5CAD2;
+    padding: 4px;
+    border: 2px solid black ;
+    text-align:left ;
+    clear: both;
+}  
+
+.articulo h2 {font-size: 30px; }
+
+.articulo p {font-size: 20px;}
+
+.tecnologias-arregladas { border: 4px solid black; 
+margin: 3px; }
+
+footer 
+{
+font-size: 22px; font-family: sans-serif; 
+padding: 30px;
+color: azure; 
+background-color: black; 
+margin: auto;
+clear: both;
+
+}
+
+body {
+background-color: #054192;
+padding: 0px;
+}
+
+.redes { font-size: 25px; }
+
+.socialmedia {
+list-style:none;
+display:inline-block;
+padding: 4px;
+text-align:left;
+font-size: 25px;
+display:block;
+align-content: center;
+}
+
+
+
+div { text-align: center;
+padding: 2%;
+background-color: #c7e7ff;
+width: 1600px;
+margin: auto; 
+border: 1px solid black;
+} 
+
